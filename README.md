@@ -6,15 +6,12 @@ Encontrei minha vocação aos 28 anos. Estou pesquisando, estudando e entendendo
 Gosto de jogos, anime, violão, academia e programação. 💌
 
 ## Linguagens que estou estudando
-
+- Java
+- Kotlin
 - python
-- javaScript
-- HTML
-- CSS
 ## Pretendo aprender sobre
 
 - HTML/CSS/JavaScript
-- Kotlin
 - React
 - Node.js
 - Ruby on Rails
